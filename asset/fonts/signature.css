@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Autograf PERSONAL USE ONLY';
+    src: url('AutografPERSONALUSEONLY.woff2') format('woff2'),
+        url('AutografPERSONALUSEONLY.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
